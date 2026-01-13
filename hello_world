@@ -1,0 +1,35 @@
+#printing hellow world
+print("hello world")
+
+name='alice'
+age=15
+print(name)
+print(age)
+
+num1=3
+num2=4
+sum= num1+num2
+print('sum',sum)
+
+a=5
+b=5
+print(a+b)
+print(a-b)
+print(a*b)
+print(a//b)
+print(a%b)
+print(a**b)
+print(a/b)
+
+
+x=5
+print(x==5)
+print(x!=5)
+print(x>5)
+print(x<5)
+
+y=10
+print(x<100 and y>5)
+print(x<10 or y<5 )
+print(not(x==5))
+print(y)
